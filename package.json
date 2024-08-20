@@ -1,0 +1,14 @@
+{
+  "name": "m0m1n-currency-converter-website",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
